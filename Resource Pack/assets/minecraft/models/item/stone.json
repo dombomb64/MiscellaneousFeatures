@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:block/stone",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "miscfeatures:block/redstone_button"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "miscfeatures:block/donut_block_normal"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/air"
+		}
+	]
+}

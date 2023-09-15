@@ -1,0 +1,6 @@
+{
+	"parent": "miscfeatures:block/leather_block_inventory",
+	"textures": {
+		"texture": "miscfeatures:block/leather_block"
+	}
+}

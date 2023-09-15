@@ -1,0 +1,30 @@
+{
+	"pack": {
+		"description": {
+			"text": "",
+			"extra": [
+				{
+					"text": "Misc. Features resources.",
+					"color": "#BAE8FF"
+				},
+				{
+					"text": "\n",
+					"color": "#808080"
+				},
+				{
+					"text": "Created by ",
+					"color": "gray"
+				},
+				{
+					"text": "dombomb64",
+					"color": "#73D0FF"
+				},
+				{
+					"text": ".",
+					"color": "gray"
+				}
+			]
+		},
+		"pack_format": 18
+	}
+}

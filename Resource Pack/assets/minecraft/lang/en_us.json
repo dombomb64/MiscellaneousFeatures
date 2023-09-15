@@ -1,0 +1,10 @@
+{
+	"block.miscfeatures.redstone_button": "Redstone Button",
+	"block.miscfeatures.donut_block": "Donut Block",
+	"block.miscfeatures.leather_block": "Leather Block",
+
+	"miscfeatures.blockSpaceTaken": "This space is taken!",
+	"miscfeatures.itemNeedsFreeOffhand": "Item needs a free off hand",
+	"miscfeatures.slotTaken": "Slot Taken",
+	"miscfeatures.niceTry": "Nice Try."
+}

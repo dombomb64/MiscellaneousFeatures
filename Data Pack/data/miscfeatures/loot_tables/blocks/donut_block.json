@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"bonus_rolls": 0.0,
+			"conditions": [
+			{
+				"condition": "minecraft:survives_explosion"
+			}
+			],
+			"entries": [
+			{
+				"type": "minecraft:item",
+				"name": "minecraft:item_frame",
+				"functions": [
+					{
+						"function": "set_count",
+						"count": 1
+					},
+					{
+						"function": "set_nbt",
+						"tag": "{mf.item:\"donut_block\",display:{Name:'{\"translate\":\"block.miscfeatures.donut_block\",\"fallback\":\"Please use the Miscellaneous Features resource pack and set your game language to English (US).\",\"italic\":false}'},CustomModelData:2,EntityTag:{Fixed:1b,Invisible:1b,Silent:1b,Tags:[\"mf.block.donut_block\",\"mf.blockInitPlace\"],Item:{id:\"minecraft:string\",Count:1b,tag:{CustomModelData:1}}}}"
+					}
+				]
+			}
+			],
+			"rolls": 1.0
+		}
+	],
+	"random_sequence": "miscfeatures:blocks/donut_block"
+}

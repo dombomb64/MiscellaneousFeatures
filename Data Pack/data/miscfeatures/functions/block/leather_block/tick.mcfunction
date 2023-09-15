@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ mangrove_roots run function miscfeatures:block/leather_block/break

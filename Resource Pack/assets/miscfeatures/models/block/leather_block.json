@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/leather_horse_armor",
+	"texture_size": [16, 16],
+	"textures": {
+		"layer0": "miscfeatures:block/leather_block",
+		"particle": "miscfeatures:block/leather_block_colored"
+	}
+}

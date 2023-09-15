@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/item_frame"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "miscfeatures:item/redstone_button"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "miscfeatures:item/donut_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "miscfeatures:item/leather_block"
+		}
+	]
+}

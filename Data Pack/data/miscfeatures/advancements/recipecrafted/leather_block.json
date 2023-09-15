@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_crafted",
+			"conditions": {
+				"recipe_id": "miscfeatures:leather_block"
+			}
+		}
+	},
+	"rewards": {
+		"function": "miscfeatures:advancement/recipecrafted/leather_block"
+	}
+}

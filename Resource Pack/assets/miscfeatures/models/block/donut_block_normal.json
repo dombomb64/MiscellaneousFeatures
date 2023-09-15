@@ -1,0 +1,6 @@
+{
+	"parent": "miscfeatures:block/donut_block",
+	"textures": {
+		"texture": "miscfeatures:block/donut_block"
+	}
+}

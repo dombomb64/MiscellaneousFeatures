@@ -1,0 +1,30 @@
+{
+	"parent": "miscfeatures:blockplaced/all",
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:using_item",
+			"conditions": {
+				"item": [
+					{
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"items": [
+								"minecraft:item_frame"
+							],
+							"nbt": "{mf.item:\"leather_block.offhand\"}"
+						}
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"requirement"
+		]
+	],
+	"rewards": {
+		"function": "miscfeatures:advancement/placeblock"
+	},
+	"sends_telemetry_event": false
+}

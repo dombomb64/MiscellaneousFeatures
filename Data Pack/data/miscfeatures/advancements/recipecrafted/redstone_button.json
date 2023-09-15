@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_crafted",
+			"conditions": {
+				"recipe_id": "miscfeatures:redstone_button"
+			}
+		}
+	},
+	"rewards": {
+		"function": "miscfeatures:advancement/recipecrafted/redstone_button"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"pack": {
+		"description": {
+			"text": "",
+			"extra": [
+				{
+					"text": "A collection of random stuff, implemented as I see fit.",
+					"color": "#BAE8FF"
+				},
+				{
+					"text": "\n",
+					"color": "#808080"
+				},
+				{
+					"text": "(Requires ",
+					"color": "dark_gray"
+				},
+				{
+					"text": "WarpedLib",
+					"color": "#167E86"
+				},
+				{
+					"text": ")\n",
+					"color": "dark_gray"
+				},
+				{
+					"text": "Created by ",
+					"color": "gray"
+				},
+				{
+					"text": "dombomb64",
+					"color": "#73D0FF"
+				},
+				{
+					"text": ".",
+					"color": "gray"
+				}
+			]
+		},
+		"pack_format": 18
+	}
+}
