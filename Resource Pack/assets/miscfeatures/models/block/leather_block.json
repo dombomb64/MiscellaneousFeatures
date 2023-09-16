@@ -1,8 +1,22 @@
 {
-	"parent": "minecraft:item/leather_horse_armor",
+	"parent": "minecraft:block/block",
 	"texture_size": [16, 16],
 	"textures": {
-		"layer0": "miscfeatures:block/leather_block",
+		"0": "miscfeatures:block/leather_block",
 		"particle": "miscfeatures:block/leather_block_colored"
-	}
+	},
+	"elements": [
+		{
+			"from": [-0.01, -0.01, -0.01],
+			"to": [16.01, 16.01, 16.01],
+			"faces": {
+				"north": {"texture": "#0", "tintindex": 0},
+				"east": {"texture": "#0", "tintindex": 0},
+				"south": {"texture": "#0", "tintindex": 0},
+				"west": {"texture": "#0", "tintindex": 0},
+				"up": {"texture": "#0", "tintindex": 0},
+				"down": {"texture": "#0", "tintindex": 0}
+			}
+		}
+	]
 }
